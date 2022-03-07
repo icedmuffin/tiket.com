@@ -52,6 +52,8 @@ puts "your lucky number 2 : "
 puts angka.to_f + 2.5
 
 
-
+class nama
+    $aku = "naufal"
+end
 
 
